@@ -2,6 +2,10 @@
 
 This is a GPT-4-powered interview preparation tool. Users answer common interview questios and receive AI feedback. Questions range from general behvaioraal questions to technical questions specific to a tech field, such as software engineering or UX design.
 
+<p align="center">
+  <img src="https://github.com/edward-chew/interview-ace/assets/69544317/e5e1a62e-0660-4302-980e-95a6ed1f3d0e" alt="animated" />
+</p>
+
 ## Tech Stack
 
 Some of the languages, tools, and libraries involved in this project.
